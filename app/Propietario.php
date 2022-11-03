@@ -9,3 +9,5 @@ class Propietario extends Model
 {
     
 }
+
+// nota de prueba
